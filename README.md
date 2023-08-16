@@ -24,7 +24,7 @@ Datasets to be used:
 - Consumer Price Index for All Urban Consumers: New Vehicles in U.S. City Average (https://fred.stlouisfed.org/series/CUSR0000SETA01)
 
 Breakdown of Tasks:
-- Armando: Explains hypothesis and analyses 
+- Armando: 
 - Lorena:
 - Roel:
-- David:
+- David: Introduces subject and explains the concept of the analysis and the first two graphs pertaining Total Vehicles Sales DataSet.
