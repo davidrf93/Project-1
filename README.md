@@ -23,8 +23,8 @@ Datasets to be used:
 - Sectoral Output Price Deflator for Retail Trade: New Car Dealers (https://fred.stlouisfed.org/series/IPUHN44111T051000000)
 - Consumer Price Index for All Urban Consumers: New Vehicles in U.S. City Average (https://fred.stlouisfed.org/series/CUSR0000SETA01)
 
-Breakdown of Taks:
-- Armando:
+Breakdown of Tasks:
+- Armando: Explains hypothesis and analyses 
 - Lorena:
 - Roel:
 - David:
