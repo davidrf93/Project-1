@@ -24,7 +24,10 @@ Datasets to be used:
 - Consumer Price Index for All Urban Consumers: New Vehicles in U.S. City Average (https://fred.stlouisfed.org/series/CUSR0000SETA01)
 
 Breakdown of Tasks:
-- Armando: 
+- Armando Magallan Jr.: - Analyzing, cleaning, and coding data set #2.
+                        -Calculating the mean CPI change in 2019 and 2023.
+                        -Creating a graph to visually display data.
+                        -Running an independent T-test on the findings in search of evidence to support our hypothesis. 
 - Lorena:
 - Roel:
 - David: Introduces subject and explains the concept of the analysis and the first two graphs pertaining Total Vehicles Sales DataSet.
