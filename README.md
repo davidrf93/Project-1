@@ -23,11 +23,14 @@ Datasets to be used:
 - Sectoral Output Price Deflator for Retail Trade: New Car Dealers (https://fred.stlouisfed.org/series/IPUHN44111T051000000)
 - Consumer Price Index for All Urban Consumers: New Vehicles in U.S. City Average (https://fred.stlouisfed.org/series/CUSR0000SETA01)
 
+Sources:
+- Average car price is at an all-time high of $47,000 going into 2022 (https://www.thezebra.com/resources/driving/average-car-price/#:~:text=Car%20price%20trends,-At%20the%20beginning&text=Between%202019%20and%202020%2C%20prices,similar%20trends%20as%20new%20vehicles)
+
 Breakdown of Tasks:
 - Armando Magallan Jr.: - Analyzing, cleaning, and coding data set #2.
                         -Calculating the mean CPI change in 2019 and 2023.
                         -Creating a graph to visually display data.
                         -Running an independent T-test on the findings in search of evidence to support our hypothesis. 
-- Lorena:
-- Roel:
+- Lorena: Analyzing and cleaning data set #3 to establishing the linear increase of prices for new vehicles.
+- Roel: Analyzing and cleaning dataset #4 to establish a correlation to Toyota as a brand?manufacturer and how their volume of sales was the most active and lucrative for 2019/2020.
 - David: Introduces subject and explains the concept of the analysis and the first two graphs pertaining Total Vehicles Sales DataSet.
